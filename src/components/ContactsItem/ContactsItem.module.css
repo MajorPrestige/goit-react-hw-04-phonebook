@@ -1,0 +1,6 @@
+.item {
+  max-width: 400px;
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+}
